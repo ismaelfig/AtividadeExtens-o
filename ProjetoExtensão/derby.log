@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 27 00:58:19 BRT 2024:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instância a816c00e-0191-91fc-04c8-000003e359a0
+no diretório de banco de dados C:\Users\ismae\eclipse-workspace\ProjetoExtensão\barbeariaDB 
+
+java.vendor=Eclipse Adoptium
+java.runtime.version=22.0.1+8
+user.dir=C:\Users\ismae\eclipse-workspace\ProjetoExtensão
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
